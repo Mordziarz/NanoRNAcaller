@@ -109,7 +109,7 @@ If you use **NanoRNAcaller** in your research, please cite the manuscript:
 
 ### Community Acknowledgements
 NanoRNAcaller relies on an ecosystem of open-source bioinformatics software. Users are strongly encouraged to cite the original publications for the integrated tools:
-* **Nextflow:** [Di Tommaso et al., 2017](https://doi.org/10.1038/nbt.3820)
+- **Nextflow:** [Di Tommaso et al., 2017](https://doi.org/10.1038/nbt.3820)
 - **Dorado & Modkit:** [Oxford Nanopore Technologies](https://github.com/nanoporetech)
 - **FastQC:** [Andrews S.](https://github.com/s-andrews/fastqc)
 - **Samtools:** [Li et al., 2009](https://doi.org/10.1093/bioinformatics/btp352)
