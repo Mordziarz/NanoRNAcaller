@@ -98,8 +98,7 @@ Run the pipeline directly via remote repository:
 nextflow run mordziarz/NanoRNAcaller \
   --samples_table samples.csv \
   --reference_genome reference_genome.fasta \
-  --gtf annotation.gtf \
-  -profile standard
+  --gtf annotation.gtf
 ```
 
 ## Citation & Acknowledgements
