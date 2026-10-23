@@ -21,8 +21,8 @@ Unlike traditional analytical workflows that rely heavily on pretrained models, 
 * **Epitranscriptomic Modification Detection:** Identifies and quantifies methylation marks directly from raw DRS signal files using Modkit.
 * **Transcript Discovery & Quantification:** Performs gene and transcript quantification along with novel transcript identification via IsoQuant.
 * **Differential Expression Analysis:** Automated statistical workflows for DGE and DTE using edgeR and DESeq2 based on group sample sizes.
-* **Alternative Splicing & DTU:** Evaluates alternative splicing (AS) events and differential transcript usage (DTU) using SUPPA2.
-* **Alternative Polyadenylation (APA):** Identifies and profiles APA sites across conditions using APAlord.
+* **Alternative Splicing & Differential transcript usage:** Evaluates alternative splicing (AS) events and differential transcript usage (DTU) using SUPPA2.
+* **Alternative Polyadenylation:** Identifies and profiles APA sites across conditions using APAlord.
 * **Poly(A) Tail Profiling:** Measures poly(A) tail dynamics and differential tail length using TAILcaller.
 * **Zero-Dependency Overhead:** Fully containerized via Docker for single-command execution and maximum reproducibility.
 
