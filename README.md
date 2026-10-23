@@ -55,7 +55,7 @@ NanoRNAcaller seamlessly integrates the following toolsuite into a unified Nextf
 * Genome Annotation (`.gtf`)
 
 ### 3. Sample Metadata Sheet
-A sample table (`samples.csv` or `samples.tsv`) must be provided with the following column structure:
+A sample table (`samples.csv`) must be provided with the following column structure:
 
 | sample | group | assay | pod5 | bam |
 | :--- | :--- | :--- | :--- | :--- |
