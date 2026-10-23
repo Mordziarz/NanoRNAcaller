@@ -95,10 +95,27 @@ Nextflow can fetch and run **NanoRNAcaller** directly from GitHub without manual
 Run the pipeline directly via remote repository:
 
 ```bash
-nextflow run mordziarz/NanoRNAcaller \
+nextflow run Mordziarz/NanoRNAcaller \
   --samples_table samples.csv \
   --reference_genome reference_genome.fasta \
   --gtf annotation.gtf
+```
+
+```
+results/
+├── alignment/
+├── apalord/
+├── differential_expression/
+├── dorado/
+├── fastq/
+├── fastqc/
+├── isoquant/
+├── rna_methylation/
+├── suppa/
+├── tailcaller/
+├── transcript_differential_expression/
+├── transcriptome/
+└── transcriptome_alignment/
 ```
 
 ## Citation & Acknowledgements
