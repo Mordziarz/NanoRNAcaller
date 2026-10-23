@@ -119,6 +119,8 @@ results/
 └── transcriptome_alignment/
 ```
 
+test_data = https://doi.org/10.6084/m9.figshare.28632515.v3
+
 ## Citation & Acknowledgements
 
 If you use **NanoRNAcaller** in your research, please cite the manuscript:
