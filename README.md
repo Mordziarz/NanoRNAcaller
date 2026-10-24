@@ -47,7 +47,7 @@ NanoRNAcaller seamlessly integrates the following toolsuite into a unified Nextf
 ## Inputs and Requirements
 
 ### 1. Prerequisites
-* **Nextflow** ($\ge$ 21.04.0)
+* **Nextflow** (24.04.4)
 * **Docker**
 
 ### 2. Reference Files
