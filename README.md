@@ -94,6 +94,12 @@ Nextflow can fetch and run **NanoRNAcaller** directly from GitHub without manual
 
 Run the pipeline directly via remote repository:
 
+Nextflow version:
+
+```bash
+export NXF_VER=24.04.4
+```
+
 ```bash
 nextflow run Mordziarz/NanoRNAcaller \
   -r main \
