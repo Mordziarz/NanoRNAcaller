@@ -1,6 +1,6 @@
 # NanoRNAcaller: A Nextflow Pipeline for Analyzing Direct RNA and cDNA Reads
 
-[![Nextflow](https://img.shields.io/badge/Nextflow-%E2%89%A521.04.0-brightgreen.svg)](https://www.nextflow.io/)
+[![Nextflow](https://img.shields.io/badge/Nextflow-%3D24.04.4-brightgreen.svg)](https://www.nextflow.io/)
 [![Docker](https://img.shields.io/badge/Docker-containerized-blue.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
